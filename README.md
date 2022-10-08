@@ -1,6 +1,6 @@
 Description:
 This is an Embedded Systems Project. I implemented a Fan Controller System which is used for changing speed according to changing in temperature. 
-I used multiple drivers: GPIO, ADC, PWM, DC MOTOR, LM35 Temperature Sensor, LCD. 
+I used multiple drivers: GPIO, ADC, PWM, DC Motor, LM35 Temperature Sensor, LCD. 
 
 if Temperature less than 30C, Fan Stops.
 else if Temperature greater than or equal 30C and less than 60C, Fan operates with 25% of its maximum speed 
